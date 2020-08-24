@@ -22,7 +22,7 @@ public class BrowserSetup extends BasePage {
 
 
     /**
-     * Function for multi browser
+     * Function for multi browser added by sudhakar
      */
     public void selectBrowser() {
         browser = LoadProp.getproperty("Browser");
